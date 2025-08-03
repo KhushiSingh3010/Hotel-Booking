@@ -67,6 +67,6 @@ Contributions are welcome! Feel free to fork this repository and open a pull req
 This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
-Your Name
+Khushi Singh
 📧 khushisingh101430@gmail.com
 📅 Last Updated: August 2025
